@@ -2,6 +2,7 @@
 
 ## :boy: About me:
 - 🔭 I’m currently in my third year in Hacettepe University.
+- 💬 You can ask me anything.
 
 ## 🧰 Languages and Tools:
 
