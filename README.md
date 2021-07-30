@@ -9,7 +9,7 @@
 <p align="center">
  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="40" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://tr.wikipedia.org/wiki/OpenCV#/media/Dosya:OpenCV_Logo_with_text_svg_version.svg" alt="OpenCv" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCv" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
