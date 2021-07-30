@@ -16,6 +16,7 @@
 <br />
 
 ## :hammer: Projects:
+- [Hand Detector](https://github.com/kaantuncer/HandDetector)
 - [PetCare - Google Solution Challenge 2021](https://github.com/suleymanekmekci/Solution-Challenge-Pet-Care)
 - [Come2Gather - Redbull Basement 2020](https://play.google.com/store/apps/details?id=com.app.Come2Gather)
 
