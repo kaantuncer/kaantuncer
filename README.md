@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## :boy: About me:
-- 🔭 I’m currently in my third year in Hacettepe University.
+- 🔭 I am currently working at Commencis as a Back-End engineer.
 - 💬 You can ask me anything.
 
 ## 🧰 Languages and Tools:
